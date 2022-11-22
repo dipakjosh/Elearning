@@ -7,4 +7,9 @@ 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
 #publisher added
 >>>>>>> refs/remotes/origin/master
 
+<<<<<<< HEAD
 author added also
+=======
+
+author added publish
+>>>>>>> 7bad5300313602cfbfee665df6353d43e3a85011
